@@ -8,7 +8,7 @@
 	<h1>Hello</h1>
 	<?php
 		echo "DATE 25/09/2015";
-		echo "";
+		echo "teste";
 	?>
 	</body>
 </html>
